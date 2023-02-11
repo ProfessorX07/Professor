@@ -4,7 +4,7 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf AKING-PRO`
+- `rm -rf JANI-404`
 - `git clone --depth=1 https://github.com/Jani-404/JANI-404.git`
 - `cd JANI-404`
 - `python XD.py`
