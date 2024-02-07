@@ -4,7 +4,7 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf JANI-404`
-- `git clone --depth=1 https://github.com/Jani-404/JANI-404.git`
-- `cd JANI-404`
-- `python XD.py`
+- `rm -rf Professor`
+- `git clone --depth=1 https://github.com/ProfessorX07/Professor.git`
+- `cd Professor`
+- `python Pro.py`
